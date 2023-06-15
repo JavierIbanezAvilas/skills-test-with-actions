@@ -1,7 +1,7 @@
 # GitHub Teacher
 
 _Charting the knowledge of the Internet, just like Galileo charted the stars._
-_underscore_
+
 
 ## Experience
 
@@ -19,6 +19,7 @@ Teach all things *Git*, give away all the stickers, ensure world peace.
 Provide _world class support_ to customers on the GitHub platform
 
 ## Skills
+_underscore_
 
 ### Education
 
